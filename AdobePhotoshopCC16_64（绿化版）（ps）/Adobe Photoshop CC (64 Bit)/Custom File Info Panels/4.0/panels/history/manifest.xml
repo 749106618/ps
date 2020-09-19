@@ -1,0 +1,23 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "history"
+			label = "$$$/AWS/FileInfoLib/Panels/History/PanelName=History"
+			order = "100"
+			description = "$$$/xmp/photoshop/History_description=The Photoshop History displays an accumulated log of edit history that has been done to the document. The logging capability can be turned on via the PS preference dialog under General>History Log."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "history"
+			panelClass = "com.adobe.xmp.panels.History"
+			localizationFile = "History"
+			visible = "true"
+			modifyDate = "2008-01-29Z">
+			
+			<!--
+			<filter type="show" ignore="false">
+				<mimetype>application/vnd.adobe.photoshop</mimetype>
+			</filter>
+			-->
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

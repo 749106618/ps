@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "dicom"
+			label = "$$$/DICM/FileInfoLib/Panels/DICOM/PanelNameAllLang=DICOM"
+			order = "90"
+			description = "$$$/DICM/FileInfoLib/Panels/DICOM/PanelDescription=Digital Imaging and Communications in Medicine."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "dicom"
+			panelClass = "com.adobe.xmp.panels.Dicom"
+			localizationFile = "DICOM"
+			visible = "true"
+			modifyDate = "2007-12-10Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

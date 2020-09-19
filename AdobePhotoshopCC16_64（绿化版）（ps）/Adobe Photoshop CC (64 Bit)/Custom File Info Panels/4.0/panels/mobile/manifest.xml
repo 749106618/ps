@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "mobile"
+			label = "$$$/AWS/FileInfoLib/Panels/Mobile/PanelName=Mobile SWF"
+			order = "60"
+			description = "$$$/AWS/FileInfoLib/Panels/Mobile/PanelDescription=Lets you define metadata of a mobile SWF document."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "mobile"
+			panelClass = "com.adobe.xmp.panels.Mobile"
+			localizationFile = "Mobile"
+			visible = "true"
+			modifyDate = "2008-02-21Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

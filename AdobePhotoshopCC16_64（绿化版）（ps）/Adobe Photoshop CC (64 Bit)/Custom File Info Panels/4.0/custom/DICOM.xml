@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xmp_definitions>
+  <xmp_schema prefix='DICOM' namespace='http://ns.adobe.com/DICOM/' label='$$$/DICM/FileInfoLib/Panels/DICOM/PanelNameAllLang=DICOM'>
+    <xmp_property name='PatientName' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/PatientName=Patient Name:' type='text'/>
+	<xmp_property name='PatientID' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/PatientID=Patient ID:' type='text'/>
+	<xmp_property name='PatientSex' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/PatientSex=Patient Sex:' type='text'/>
+	<xmp_property name='PatientDOB' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/PatientDOB=Date of Birth:' type='date'/>
+	<xmp_property name='StudyID' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/StudyID=Study ID:' type='text'/>
+	<xmp_property name='StudyPhysician' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/StudyPhysician=Referring Physician:' type='text'/>
+	<xmp_property name='StudyDateTime' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/StudyDateTime=Study Date:' type='date'/>
+	<xmp_property name='StudyDescription' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/StudyDescription=Study Description:' type='text'/>
+	<xmp_property name='SeriesNumber' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/SeriesNumber=Series Number:' type='text'/>
+	<xmp_property name='SeriesModality' category='external' description='$$$/xmp/DICOM/SeriesModality_description=Modality used to create the data' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/SeriesModality=Modality:' type='text'/>
+	<xmp_property name='SeriesDateTime' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/SeriesDateTime=Series Date:' type='date'/>
+	<xmp_property name='SeriesDescription' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/SeriesDescription=Series Description:' type='text'/>
+	<xmp_property name='EquipmentInstitution' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/EquipmentInstitution=Equipment Institution:' type='text'/>
+	<xmp_property name='EquipmentManufacturer' category='external' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/EquipmentManufacturer=Equipment Manufacturer:' type='text'/>
+	<xmp_property name='FileInfoTransferSyntax' category='internal' description='$$$/xmp/DICOM/FileInfoTransferSyntax_description=Coding scheme of device' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/FileInfoTransferSyntax=Transfer Syntax:' type='text'/>
+	<xmp_property name='FileInfoPhotometricInterpretation' category='internal' description='$$$/xmp/DICOM/FileInfoPhotometricInterpretation_description=Pixel color format' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/FileInfoPhotometricInterpretation=Photometric Interpretation:' type='text'/>
+	<xmp_property name='FileInfoImageWidth' category='internal' description='$$$/xmp/DICOM/FileInfoImageWidth_description=Width, pixels' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/FileInfoImageWidth=Image Width:' type='integer'/>
+	<xmp_property name='FileInfoImageHeight' category='internal' description='$$$/xmp/DICOM/FileInfoImageHeight_description=Height, pixels' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/FileInfoImageHeight=Image Height:' type='integer'/>
+	<xmp_property name='FileInfoBitsPerPixel' category='internal' description='$$$/xmp/DICOM/FileInfoBitsPerPixel_description=Bit-depth' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/FileInfoBitsPerPixel=Bits Per Pixel:' type='integer'/>
+	<xmp_property name='FileInfoFrames' category='internal' description='$$$/xmp/DICOM/Frames_description=Number of frames' label='$$$/DICM/Bridge/MetadataPane/DicomInfo/FileInfoFrames=Frames:' type='integer'/>
+  </xmp_schema>
+</xmp_definitions>

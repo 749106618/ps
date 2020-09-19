@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "origin"
+			label = "$$$/AWS/FileInfoLib/Panels/Origin/PanelName=Origin"
+			order = "80"
+			description = "$$$/AWS/FileInfoLib/Panels/Origin/PanelDescription=Displays information about the origin of the asset."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "origin"
+			panelClass = "com.adobe.xmp.panels.Origin"
+			localizationFile = "origin"
+			visible = "true"
+			modifyDate = "2007-09-13Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

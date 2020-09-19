@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "audio"
+			label = "$$$/AWS/FileInfoLib/Panels/DynamicMedia/AudioData/PanelName=Audio Data"
+			order = "50"
+			description = "$$$/AWS/FileInfoLib/Panels/DynamicMedia/AudioData/PanelDescription=Contains the most important audio properties."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "audioData"
+			panelClass = "com.adobe.xmp.panels.AudioData"
+			localizationFile = "AudioData"
+			visible = "true"
+			modifyDate = "2008-01-28Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

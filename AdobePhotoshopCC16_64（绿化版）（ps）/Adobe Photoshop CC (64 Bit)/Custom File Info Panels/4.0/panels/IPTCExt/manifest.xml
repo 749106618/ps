@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "IPTCExt"
+			label = "$$$/AWS/FileInfoLib/Panels/IPTCExt/PanelName=IPTC Extension"
+			order = "25"
+			description = "$$$/AWS/FileInfoLib/Panels/IPTCExt/PanelDescription=International Press Telecommunications Council Extension schema properties."
+			paneltype = "built-in"
+			version = "1.0"
+			panelLibrary = "iptcExt"
+			panelClass = "com.adobe.xmp.panels.IPTCExt"
+			localizationFile = "IPTCExt"
+			visible = "true"
+			modifyDate = "2009-06-12Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

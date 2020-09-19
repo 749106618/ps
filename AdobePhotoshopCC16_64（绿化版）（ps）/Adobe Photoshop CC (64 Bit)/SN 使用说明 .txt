@@ -1,0 +1,61 @@
+                    ╭════════════════╮
+                    ║    天天资讯   下载说明         ║ 
+  ╭════════┤       网址: ttrar.com          ├═══════╮
+  ║                ║    邮箱: astekcn@gmail.com     ║               ║
+  ║                ╰════════════════╯               ║
+  ║                                                                   ║
+  ║ ¤本站所收录软件均经过严格测试，请放心使用！                      ║
+  ║                                                                   ║
+　║ ¤版权：本软件版权归原作者所有!                                   ║
+  ║                                                                   ║
+  ║ ¤说明：本软件由ttrar.com 搜集整理，本站不承担任何技术            ║
+  ║        及版权问题。本站只收集免费软件，破解软件，绿色软件在       ║
+  ║        本站下载任何软件仅提供学习参考，不得用于商业用途，请       ║
+  ║        在下载后在24小时内删除。本站不保证软件的完整性和是否       ║
+  ║        隐含病毒，请自行调试及杀毒，如不同意本条款请勿使用，       ║
+  ║        谢谢合作！                                                 ║
+  ║                                                                   ║
+  ║ ¤本站联系方式 Email：astekcn@gmail.com		    	       ║
+  ║                                                                   ║
+  ║              ╭════════════════════╮         ║
+  ║              ║                                        ║         ║
+  ╰═══════┤  网络共享,资源无限,精品资讯,天天更新!  ├═════╯
+                  ║                                        ║
+                  ╰════════════════════╯ 
+
+
+Adobe Photoshop CC (64 bit) 绿色精简版
+
+
+此版本 Photoshop CC (64 bit) 由官方简体中文正式版制作而成，只需要执行一次快速安装即可使用。
+
+注意：安装前必须关闭所有Adobe系列软件，否则可能会出现安装不成功。
+
+此绿色版特点：
+1. 精简了Bridge CC、Extension Manager、多国语言、激活系统等组件.
+2. 鉴于自带的 Digimarc 水印插件基本没人使用，所以换成了比较实用又强大的皮肤美化滤镜 Portraiture v2.3 build 2308U1，介绍参见http://www.imagenomic.com/download.aspx?product=portraiture推荐一试。
+3. 保留了Camera Raw 8、颜色预置、PDF预置、Kuler调色板。
+4. 精简了dynamic link，但是如果装了After Effects或者Premiere的话，AE和PR会给PS补上dynamic link功能。
+5. 能完整关联所有Photoshop能编辑的文件。包括CLASS、FILETYPE、MIME等特殊方式关联。
+6. 使用SQLLite准确注册程序,为以后安装其他Adobe程序做好准备。
+7. 程序已经集成和谐文件。并且不含任何第三方插件。保持纯净。
+8. 修复了Windows8下面绿色版CS6必须要管理员运行的缺陷（错误16），并且还有VC支持库导致的错误（错误0x00000007）。
+
+安装方法：
+方法一：运行“QuickInstall.exe”安装软件。
+方法二：使用命令行“QuickInstall.exe /i”安装；“QuickInstall.exe /u”卸载。
+
+
+软件介绍：
+Adobe Photoshop CC Extended (64 bit) 的新增功能：
+Photoshop CC 提供了眾多新增功能。您可使用全新的智慧型銳利化 (Smart Sharpen) 工具使細節更為鮮明，還可將低解析度的相片轉化為高解析度的大型影像，更可取得所有先進的 3D 編輯和影像分析工具，先前只有 Adobe Photoshop Extended 才提供這些工具。而且不只如此！
+
+新增功能：
+更緊密連接的 Photoshop、全新的智慧型銳利化、智慧型增加取樣、內含 Extended 功能、Camera Raw 8 和圖層支援、可編輯的圓角矩形、多重形狀和路徑選擇、相機防手震、擴充的智慧型物件支援、改良的 3D 繪圖、改善的文字樣式、CSS 屬性複製、條件動作、改良的 3D 場景面板、工作流程省時功能、改良的 3D 效果、從網頁檔案讀入顏色、用於文字的系統消除鋸齒、改良的最小和最大濾鏡等。
+（具体见http://www.adobe.com/hk_zh/products/photoshop/features.html）
+
+
+
+
+Ansifa
+2013-6-20

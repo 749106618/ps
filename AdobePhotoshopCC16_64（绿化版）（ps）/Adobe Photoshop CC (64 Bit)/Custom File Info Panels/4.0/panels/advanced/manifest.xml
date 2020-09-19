@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "advanced"
+			label = "$$$/AWS/FileInfoLib/Panels/Advanced/PanelName=Advanced"
+			order = "200"
+			description = "$$$/AWS/FileInfoLib/Panels/Advanced/PanelDescription=Displays the XMP data in a tree view."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "advanced"
+			panelClass = "com.adobe.xmp.panels.Advanced"
+			localizationFile = "Advanced"
+			visible = "true"
+			modifyDate = "2008-03-04Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

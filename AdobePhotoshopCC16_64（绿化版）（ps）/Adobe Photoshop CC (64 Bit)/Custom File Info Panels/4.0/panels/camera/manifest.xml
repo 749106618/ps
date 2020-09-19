@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "camera"
+			label = "$$$/AWS/FileInfoLib/Panels/Camera/PanelName=Camera Data"
+			order = "30"
+			description = "$$$/AWS/FileInfoLib/Panels/Camera/PanelDescription=Contains the most important TIFF and Exif properties."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "camera"
+			panelClass = "com.adobe.xmp.panels.CameraData"
+			localizationFile = "Camera"
+			visible = "true"
+			modifyDate = "2008-01-21Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

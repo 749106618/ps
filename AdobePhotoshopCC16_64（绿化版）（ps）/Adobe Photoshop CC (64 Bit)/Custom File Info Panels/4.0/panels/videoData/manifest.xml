@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "video"
+			label = "$$$/AWS/FileInfoLib/Panels/DynamicMedia/VideoData/PanelName=Video Data"
+			order = "40"
+			description = "$$$/AWS/FileInfoLib/Panels/DynamicMedia/VideoData/PanelDescription=Contains the most important video properties."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "videoData"
+			panelClass = "com.adobe.xmp.panels.VideoData"
+			localizationFile = "VideoData"
+			visible = "true"
+			modifyDate = "2008-01-28Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "rawpacket"
+			label = "$$$/AWS/FileInfoLib/Panels/RawData/PanelName=Raw Data"
+			order = "210"
+			description = "$$$/AWS/FileInfoLib/Panels/RawData/PanelDescription=Displays the XMP packet in raw RDF/XML form."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "rawpacket"
+			panelClass = "com.adobe.xmp.panels.RawPacket"
+			localizationFile = "Rawpacket"
+			visible = "true"
+			modifyDate = "2008-02-22Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

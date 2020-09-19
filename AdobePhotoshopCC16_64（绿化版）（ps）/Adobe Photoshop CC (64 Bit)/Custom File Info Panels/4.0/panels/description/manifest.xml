@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "description"
+			label = "$$$/AWS/FileInfoLib/Panels/Description/PanelName=Description"
+			order = "10"
+			description = "$$$/AWS/FileInfoLib/Panels/Description/PanelDescription=Contains the core properties of the asset."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "description"
+			panelClass = "com.adobe.xmp.panels.Description"
+			localizationFile = "description"
+			visible = "true"
+			modifyDate = "2007-09-13Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

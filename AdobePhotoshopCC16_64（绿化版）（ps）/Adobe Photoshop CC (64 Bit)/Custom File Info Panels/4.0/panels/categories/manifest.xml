@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "categories"
+			label = "$$$/AWS/FileInfoLib/Panels/Categories/PanelName=Categories"
+			order = "70"
+			description = "$$$/AWS/FileInfoLib/Panels/Categories/PanelDescription=Image Categories"
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "categories"
+			panelClass = "com.adobe.xmp.panels.Categories"
+			localizationFile = "Categories"
+			visible = "true"
+			modifyDate = "2008-01-29Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>

@@ -1,0 +1,17 @@
+<xfi:fileinfo xmlns:xfi="http://ns.adobe.com/xmp/fileinfo/">
+	<xfi:panels>
+		<xfi:panel
+			name = "gpsData"
+			label = "$$$/AWS/FileInfoLib/Panels/GPSData/PanelName=GPS Data"
+			order = "35"
+			description = "$$$/AWS/FileInfoLib/Panels/GPSData/PanelDescription=Contains the EXIF GPS tag properties."
+			type = "built-in"
+			version = "1.0"
+			panelLibrary = "gpsData"
+			panelClass = "com.adobe.xmp.panels.GPSData"
+			localizationFile = "GPSData"
+			visible = "true"
+			modifyDate = "2011-08-15Z">
+		</xfi:panel>
+	</xfi:panels>
+</xfi:fileinfo>
